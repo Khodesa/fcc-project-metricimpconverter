@@ -1,7 +1,15 @@
 code {
-    background-color: whitesmoke;
+    background-color: #ff0;
 }
 
 section, header {
     margin: 50px;
+}
+
+body {
+  background-color: #00f;
+}
+
+hr {
+  border: 1px solid  #0f0;
 }
